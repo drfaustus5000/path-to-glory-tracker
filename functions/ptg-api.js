@@ -1,4 +1,4 @@
-///// BEGIN — paste this into functions/ptg-api/index.js /////
+///// BEGIN — paste  this into functions/ptg-api/index.js /////
 export default {
   async fetch(request, env) {
  const CORS_HEADERS = {
